@@ -1,0 +1,28 @@
+// Icon
+<i class="fa-solid fa-quote-right"></i>
+<i class="fa-solid fa-quote-left"></i>
+
+
+// Text
+Working with Aemsiricode was a fantastic experience. 
+They took our ideas and turned them into a stunning, user-friendly 
+website. They really listened to our needs and delivered beyond our expectations.
+
+
+// 1
+name: 'Miyah Myles',
+      position: 'Marketing',
+      photo: './assets/img/avatar-01.png',
+      text: " Working with Aemsiricode was a fantastic experience. They took our ideas and turned them into a stunning, user-friendly website. They really listened to our needs and delivered beyond our expectations.",
+
+// 2
+name: 'Jamie Reynolds',
+      position: 'Business Owner',
+      photo: './assets/img/avatar-02.png',
+      text: "Aemsiricode didn't just build us a website—they helped our business grow. Their professional design and intuitive user experience made it easier for our customers to interact with us."
+
+// 3
+ name: 'Morgan Hayes',
+      position: 'Project Manager',
+      photo: './assets/img/avatar-03.png',
+      text: 'We’ve worked with Aemsiricode on several major projects, and they’ve consistently delivered on time and with great attention to detail. Their insights were invaluable at every stage of the website development process.'
